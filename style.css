@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    background-color: #00FFFF;
+    
+}
+
+ .container-fluid{ background-color:#01257D;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin: 0px; 
+}
+
+
+.nav-item a:hover{color:#00FFFF ;
+}
+
+h1:hover{color: #00FFFF;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+.PRIEST,p{
+    color:#01257D ;
+    margin-left: 10px;
+    
+}
+
+h2:hover{color:#00FFFF  ;
+    text-align: center;
+}
+
+.port{
+    text-align: center;
+    color:#00FFFF ;   
+}
+
+.review{
+    background-color: #00FFFF;
+
+}
+
+
+
+.test{
+    width: 200px;
+    height: 200px;
+    margin-left: 650px;
+    border-radius: 100%;
+}
+
+.price{
+    padding-top: 10px;
+    color:#01257D ;
+    margin-bottom: 20px;
+    background-color:#00FFFF ;
+}
+
+.section_2{
+    background-color: #00FFFF;
+}
+
+.Answer,.Answer-2{
+    text-align: center;
+}
+
+.connect{
+    margin-right: 10px;
+    
+}
+
+.section_4{
+    background-color: #00FFFF;
+}
+
+.intro:hover{
+    color: black;
+}
+
+.section_5{
+    background-color: #00FFFF;
+}
+
+.location{
+    text-align: center;
+}
+
+.Services:hover{
+color: black;
+}
+
+.wed:hover{
+    color: black;
+}
+
+.event:hover{
+    color: black;
+}
+
+.portrait:hover{
+    color: black;
+}
+
+.welcome:hover{
+    color: black;
+}
+
+.editing:hover{
+    color: black;
+}
+
+.custom:hover{
+    color: black;
+}
+
+
+
+
+
+
